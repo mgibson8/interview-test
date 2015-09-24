@@ -1,4 +1,4 @@
-# Interview assignment.
+# Interview assignment
 
 ### Prerequisites:
 You'll need a (free) Github account, and Git needs to be installed on your development machine.
@@ -12,7 +12,7 @@ You'll need a (free) Github account, and Git needs to be installed on your devel
 
 ## The assignment:
 
-In this repository there is a CSV file containing a list of telephone numbers and names.
+In this repository there is a CSV file (numbers.csv) containing a list of telephone numbers and names.
 
 In the programming language of your choice, you need to:
 
