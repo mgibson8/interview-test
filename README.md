@@ -7,7 +7,7 @@ You'll need a (free) Github account, and Git needs to be installed on your devel
 1. Fork this repository with the 'Fork' button in the top right of the Github web interface.
 1. Clone your copy of the repository to your local machine. e.g.`git clone ...`
 1. Complete the programming assignment described below in the language of your choice.
-1. Add your changes with `git add ...`, commit them with `git commit -m ...` and push them to Github with `git push ...`
+1. Add your changes(`git add ...`), commit them(`git commit -m ...`) and push them to Github(`git push ...`)
 1. Create a Github 'Pull Request' using the button in the GitHub web interface, on the 'Pull requests' screen.
 
 ## The assignment:
