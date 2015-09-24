@@ -1,4 +1,4 @@
-#Simple interview assignment.
+#Meetupcall interview assignment.
 
 ### Prerequisites:
 You'll need a (free) Github account, and Git needs to be installed on your development machine.
